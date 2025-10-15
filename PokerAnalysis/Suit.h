@@ -1,0 +1,9 @@
+
+#ifndef POKERSCORING_SUIT_H
+#define POKERSCORING_SUIT_H
+
+enum Suit{
+    CLUBS = 0, DIAMONDS = 1, HEARTS = 2, SPADES = 3
+};
+
+#endif //POKERSCORING_SUIT_H
